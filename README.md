@@ -344,7 +344,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Contact Information
 - **Project Lead**: MOHAMMED SIYAD AP & FASIL RAHMAN TK 
 - **Email**: fasil.ai.tinos@gmail.com
-- **GitHub**: https://github.com/Fasiiltk/FraudShield
+- **GitHub**: https://github.com/Fasiiltk
 
 ---
 
