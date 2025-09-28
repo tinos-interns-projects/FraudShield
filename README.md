@@ -11,7 +11,7 @@ A comprehensive **enterprise-grade** fraud detection system built with Flask, fe
 
 ### 🔍 Advanced Fraud Detection
 - **XGBoost Model**: High-accuracy fraud prediction with 95%+ precision
-- **Isolation Forest**: Unsupervised anomaly detection for unknown threats
+- **Isolation Forest**: Unsupervised anomaly detection for unknown threats 
 - **Real-time Analysis**: Instant threat scoring and risk assessment
 - **Batch Processing**: Handle thousands of transactions simultaneously
 
@@ -342,9 +342,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Security**: Report security issues privately
 
 ### Contact Information
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [https://github.com/yourusername/FraudShield]
+- **Project Lead**: MOHAMMED SIYAD AP & FASIL RAHMAN TK 
+- **Email**: fasil.ai.tinos@gmail.com
+- **GitHub**: https://github.com/Fasiiltk/FraudShield
 
 ---
 
@@ -352,5 +352,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Last updated: [Current Date]*
+*Last updated: [09-28-2025]*
 *Version: 1.0.0*
