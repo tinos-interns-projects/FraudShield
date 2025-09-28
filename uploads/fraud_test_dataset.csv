@@ -1,0 +1,11 @@
+Transaction_ID,Amount,Account_Balance,Location,Transaction_Type,Timestamp,Device_OS
+TXN_F001,85000,30000,Foreign,Transfer,2024-01-15T03:15:00,Unknown
+TXN_F002,50000,15000,Unknown,Withdrawal,2024-01-16T01:45:00,Linux
+TXN_F003,120000,40000,Foreign,Transfer,2024-01-17T23:30:00,Unknown
+TXN_F004,95000,20000,Remote,Purchase,2024-01-18T02:00:00,iOS
+TXN_F005,200000,50000,International,Transfer,2024-01-19T04:20:00,Windows
+TXN_N001,250,8000,Local,Purchase,2024-01-15T14:30:00,Android
+TXN_N002,75,3500,Local,Purchase,2024-01-16T10:15:00,iOS
+TXN_N003,1200,12000,Local,Purchase,2024-01-17T16:45:00,Android
+TXN_N004,500,6000,Local,Withdrawal,2024-01-18T12:00:00,Windows
+TXN_N005,180,4500,Local,Purchase,2024-01-19T09:30:00,iOS
