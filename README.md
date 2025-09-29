@@ -295,7 +295,7 @@ python --version
 
 # Verify virtual environment
 pip list
-
+ 
 # Check for missing dependencies
 pip install -r requirements.txt
 ```
